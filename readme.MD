@@ -13,4 +13,4 @@ This module is used to create EC2 instances
 
 * public-ip - public ip of instance created
 * private-ip - private ip of instance created
-
+* instance-id - instance id of the EC2 instance
